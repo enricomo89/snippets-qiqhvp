@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enricomo89.github.io/snippets-qiqhvp/sitemap.xml
